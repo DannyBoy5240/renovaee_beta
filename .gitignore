@@ -1,0 +1,5 @@
+.dfx
+.vessel
+node_modules
+declarations
+dist
